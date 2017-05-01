@@ -8,7 +8,8 @@ import sys
 import time
 
 api_key = ''
-secrete = ''
+secret = ''
+
 
 #group_id = '1685358@N25'    # caterpillarequipment's group_id
 dir_name = sys.argv[1]
